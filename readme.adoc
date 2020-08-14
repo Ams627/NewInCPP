@@ -1,0 +1,14 @@
+= What's new in C++: Lambdas
+
+Lambdas per se are NOT new, however, there are still some misunderstandings around them.
+
+== Revision: Pointer to function
+
+Pointer to a function taking no parameters and returning void
+
+void (*PFunc)()
+
+You should read it like this:
+
+
+
